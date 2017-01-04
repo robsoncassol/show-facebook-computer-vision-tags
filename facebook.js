@@ -15,7 +15,7 @@ const emoji_map = {
   "carro": "🚗",
   "gato": "😺",
   "criança": "👦",
-  "arvore de natal": "🎄",
+  "árvore de Natal": "🎄",
   "close-up": "👀",
   "closeup": "👀",
   "nuvem": "☁️",
