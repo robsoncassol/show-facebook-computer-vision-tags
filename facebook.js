@@ -1,5 +1,5 @@
 const emoji_map = {
-  "1 person": "👤",
+  "1 pessoa": "👤",
   "2 pessoas": "👥",
   "3 pessoas": "👥",
   "4 pessoas": "👥",
@@ -29,7 +29,7 @@ const emoji_map = {
   "óculos": "👓",
   "fogos de artifício": "🎆",
   "flor": "🌻",
-  "food": "🍎",
+  "comida": "🍎",
   "copos": "🕶",
   "golf": "🏌️‍",
   "grama": "🍃",
